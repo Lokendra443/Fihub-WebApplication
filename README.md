@@ -61,6 +61,6 @@
 - 🏋️ **Workout Tracking**
 - 🎯 **Fitness Goals Management**
 - 📈 **Progress Visualization with Chart.js**
-- 🔐 Role-based Access (User, Trainer, Admin)
-- 🗂️ Clean & Modular Component Design
-- 🌐 Fully Responsive UI
+- 🔐 **Role-based Access (User, Trainer, Admin)**
+- 🗂️ **Clean & Modular Component Design**
+- 🌐 **Fully Responsive UI**
